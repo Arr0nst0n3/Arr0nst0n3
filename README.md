@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Arr0nst0n3, and I'm a machinist.
+- 👀 I'm on a mission to find the perfect balance between mechanical madness and the controlling flow of electrons, via coding.
+- 📫 Click to reach me --> https://wiki.hackerspaces.org/Public_Research_Association_of_Social_Hacktivity
+
+
+<!---
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+Arr0nst0n3/Arr0nst0n3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
